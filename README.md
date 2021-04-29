@@ -1,3 +1,3 @@
-# best-repo-ever
+# My Scripts
 
-This is a change made in new-branch-2 branch.
+1. Email Validation - This script will check if an email is valid or not.
