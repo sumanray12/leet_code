@@ -1,4 +1,3 @@
-# My Scripts
+# Leet-Code Solutions
 
-
-1. *Email Validation* - This script will check if an email is valid or not.
+This repository will have all solutions. 
